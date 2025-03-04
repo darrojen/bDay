@@ -45,7 +45,3 @@ Birthday List App Preview 'https://darrojen.github.io/bDay/'
 📧 **Email:** darlington.ajaezo@gmail.com  
 🔗 **GitHub:** (https://github.com/darrojen)  
 
----
-
-**🚀 Now with a navigation bar, stylish birthday cards, and improved animations! 🎉**  
-
