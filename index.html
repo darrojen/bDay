@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday List App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="#home" class="nav-link active">Home</a>
+        <a href="#add-birthday" class="nav-link">Add Birthday</a>
+        <a href="#birthday-list" class="nav-link">View List</a>
+    </nav>
+    <section id="home">
+        <h2>🎂 Welcome to Birthday List App</h2>
+        <p>Keep track of important birthdays with ease!</p>
+    </section>
+
+    <section id="add-birthday">
+        <h2>Add a Birthday</h2>
+        <input type="text" id="name-input" placeholder="Enter Name">
+        <input type="date" id="date-input">
+        <button onclick="addBirthday()">Add Birthday</button>
+    </section>
+
+    <section id="birthday-list">
+        <h2>📅 Upcoming Birthdays</h2>
+        <div id="birthday-container"></div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
+
