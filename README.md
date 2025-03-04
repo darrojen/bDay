@@ -15,7 +15,7 @@ This app allows users to **add and remove birthdays** while providing a **modern
 ---
 
 ## 📸 Preview  
-Birthday List App Preview (https://via.placeholder.com/800x400?text=Birthday+List+App)  
+Birthday List App Preview 'https://darrojen.github.io/bDay/' 
 
 ---
 
@@ -31,8 +31,6 @@ Birthday List App Preview (https://via.placeholder.com/800x400?text=Birthday+Lis
 - **HTML** 🏗️ – Structuring the app  
 - **CSS** 🎨 – Styling & animations  
 - **JavaScript** ⚡ – Interactivity  
-- **LocalStorage** 💾 – Data storage  
-
 ---
 
 ## 💡 Future Improvements  
@@ -44,10 +42,10 @@ Birthday List App Preview (https://via.placeholder.com/800x400?text=Birthday+Lis
 
 ## 📬 Contact  
 💬 Have suggestions?  
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+📧 **Email:** darlington.ajaezo@gmail.com  
+🔗 **GitHub:** (https://github.com/darrojen)  
 
 ---
 
 **🚀 Now with a navigation bar, stylish birthday cards, and improved animations! 🎉**  
-Let me know if you need further modifications! 😊  
+
